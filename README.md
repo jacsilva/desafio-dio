@@ -1,3 +1,3 @@
 # desafio-dio
 
-Desafio 02 DIO
+Desafio do curso: Criando um ecossistema Hadoop totalmente gerenciado com Google Cloud Platform
